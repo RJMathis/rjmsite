@@ -1,0 +1,17 @@
+
+h4.ttt{
+    text-align: center;    
+    background-color: #4E5930;
+    color: #FFF;
+    padding: 0.5em;
+
+}
+
+td.borded{
+    border-right: 2px solid black;    
+}
+
+tr.borded{
+    border-bottom: 2px solid black;    
+}
+
